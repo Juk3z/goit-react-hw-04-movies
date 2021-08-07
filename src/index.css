@@ -1,0 +1,54 @@
+/* ul {
+  list-style: none;
+} */
+
+a {
+  margin: 5px;
+  text-decoration: none;
+}
+
+.navigation {
+  background-color: beige;
+  color: black;
+  padding: 10px;
+}
+
+.navigation:hover {
+  background-color: cornflowerblue;
+  color: white;
+}
+
+.activeNavigation {
+  background-color: cornflowerblue;
+  color: white;
+}
+
+img {
+  display: block;
+  width: 200px;
+  height: auto;
+}
+
+button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.addInfo {
+  display: block;
+  width: 70px;
+  background-color: beige;
+  padding: 5px;
+  margin: 5px;
+}
+
+.addInfo:hover {
+  cursor: pointer;
+  background-color: cornflowerblue;
+  color: white;
+}
+
+.activeAddInfo {
+  background-color: cornflowerblue;
+  color: white;
+}
